@@ -1,64 +1,47 @@
 # Privacy Policy for RaceIQ
 
-Effective Date: June 27, 2025
+**Effective Date:** June 2025
 
-RaceIQ ("we", "us", or "our") operates the RaceIQ mobile application (the "App"). This Privacy Policy informs you of our policies regarding the collection, use, and disclosure of personal data when you use our App and the choices you have associated with that data.
+**RaceIQ** does not collect, store, or transmit any personal data to external servers. The application is fully offline, and all user data remains on your device.
 
-## 1. Information We Collect
+## 1. Data Collection
 
-We may collect the following types of information:
+We do **not** collect or transmit any personal information or usage data. All functionality and user settings remain strictly on-device.
 
-- **Personal Information**: such as name, email address, or phone number if you provide them voluntarily (e.g., for account creation, support requests).
-- **Usage Data**: information on how the App is accessed and used (e.g., device type, app version, crash reports, and diagnostic logs).
-- **App Data**: any data entered or generated within the app (e.g., race logs, car details, team member roles).
+## 2. Use of Information
 
-We do **not** collect sensitive personal information unless explicitly stated.
+As no personal data is collected, there is no use of personal information by RaceIQ.
 
-## 2. How We Use Your Information
+## 3. Data Sharing
 
-We use the collected data for the following purposes:
+We do **not** share any information with third parties.
 
-- To provide and maintain the App
-- To notify you about changes to the App
-- To allow you to participate in interactive features
-- To provide customer support
-- To monitor usage and improve the App
-- To detect, prevent and address technical issues
+## 4. Security
 
-## 3. Sharing of Data
+Your data never leaves your device. You remain in control of your data at all times.
 
-We do **not sell**, rent, or share your personal information with third parties except:
+## 5. Your Rights and Data Access
 
-- When required by law
-- With service providers (e.g., analytics or hosting) under strict confidentiality agreements
-- With your consent
+- **Access and update:** All data is stored locally. You can access or modify it through the app interface on your device.
+- **Data deletion:** Uninstalling the app will delete all app data from your device.
+- **Withdraw consent:** Since no data is collected, no consent is stored or required. There is nothing to withdraw.
 
-## 4. Data Security
+## 6. PDF Generation and Sharing
 
-We strive to use commercially acceptable means to protect your data. However, no method of transmission over the internet or method of electronic storage is 100% secure.
+RaceIQ allows users to generate PDF documents containing race data, car setups, and related information.
 
-## 5. Children’s Privacy
+- All data used to create PDFs is stored locally on your device.
+- The PDF generation happens entirely on your device.
+- You have full control over if and how you share these PDFs (e.g., via email or other apps).
+- RaceIQ does **not** collect, transmit, or store these PDFs or any of your data on external servers.
 
-The App is not intended for anyone under the age of 13. We do not knowingly collect personal information from children under 13. If we learn we have collected such information, we will delete it.
+## 7. Contact
 
-## 6. Your Rights
+If you have any questions about this policy, contact us at: [omarbalkissoon@gmail.com]
 
-You have the right to:
+---
 
-- Access and update your personal information
-- Request deletion of your data
-- Withdraw consent at any time (if applicable)
-
-To make such a request, please contact us at: **[contact@raceiq.app]**
-
-## 7. Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. We will notify you of any changes by updating the “Effective Date” at the top of this page.
-
-## 8. Contact Us
-
-If you have any questions or concerns about this Privacy Policy, contact us at:
-
-**RaceIQ Team**  
-📧 Email: [omarbalkissoon@gmail.com]  
+Prepared for: RaceIQ Development Team  
+Version: 1.0
+Date: June 2025
 
